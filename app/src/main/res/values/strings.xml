@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SportsNewsTestApplication</string>
+    <string name="repeat">Повторить</string>
+    <string name="activity_category_title">Cпортивные новости</string>
+    <string name="activity_article_title">Подробнее</string>
+    <string name="football">Футбол</string>
+    <string name="hockey">Хоккей</string>
+    <string name="tennis">Теннис</string>
+    <string name="basketball">Баскетбол</string>
+    <string name="volleyball">Волейбол</string>
+    <string name="cybersport">Киберспорт</string>
+    <string name="prediction_text">Предсказание:</string>
+</resources>
